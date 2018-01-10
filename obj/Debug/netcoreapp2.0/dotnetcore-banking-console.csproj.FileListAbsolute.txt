@@ -1,0 +1,10 @@
+C:\wamp\www\projects\dotnet-core\dotnetcore-banking-console\bin\Debug\netcoreapp2.0\dotnetcore-banking-console.deps.json
+C:\wamp\www\projects\dotnet-core\dotnetcore-banking-console\bin\Debug\netcoreapp2.0\dotnetcore-banking-console.runtimeconfig.json
+C:\wamp\www\projects\dotnet-core\dotnetcore-banking-console\bin\Debug\netcoreapp2.0\dotnetcore-banking-console.runtimeconfig.dev.json
+C:\wamp\www\projects\dotnet-core\dotnetcore-banking-console\bin\Debug\netcoreapp2.0\dotnetcore-banking-console.dll
+C:\wamp\www\projects\dotnet-core\dotnetcore-banking-console\bin\Debug\netcoreapp2.0\dotnetcore-banking-console.pdb
+C:\wamp\www\projects\dotnet-core\dotnetcore-banking-console\obj\Debug\netcoreapp2.0\dotnetcore-banking-console.csproj.CoreCompileInputs.cache
+C:\wamp\www\projects\dotnet-core\dotnetcore-banking-console\obj\Debug\netcoreapp2.0\dotnetcore-banking-console.AssemblyInfoInputs.cache
+C:\wamp\www\projects\dotnet-core\dotnetcore-banking-console\obj\Debug\netcoreapp2.0\dotnetcore-banking-console.AssemblyInfo.cs
+C:\wamp\www\projects\dotnet-core\dotnetcore-banking-console\obj\Debug\netcoreapp2.0\dotnetcore-banking-console.dll
+C:\wamp\www\projects\dotnet-core\dotnetcore-banking-console\obj\Debug\netcoreapp2.0\dotnetcore-banking-console.pdb
